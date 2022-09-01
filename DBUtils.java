@@ -1,1 +1,1 @@
-This java class contains the DB related code
+This java class contains the DB related code.
